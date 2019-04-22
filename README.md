@@ -1,5 +1,4 @@
-# resource-discovery
-CD2H Resource Discovery Core
+# CD2H Resource Discovery Core
 
 # Leadership
 * Director: David Eichmann (University of Iowa)
