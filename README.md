@@ -29,4 +29,4 @@ Pull from proposal
 * [Education Harmonization](https://github.com/data2health/edu-harmonization)
 * [menRva](https://github.com/data2health/menRva)
 * [Personas](https://github.com/data2health/CTS-Personas)
-* [Science of Translational Science Platform](https://github.com/data2health/scits-platform)
+* [Science of Translational Science Platform](https://github.com/data2health/scits-platform) [RPPR](https://github.com/data2health/scits-platform/RPPR.md)
