@@ -5,6 +5,9 @@ CD2H Resource Discovery Core
 * Director: David Eichmann (University of Iowa)
 * Co-Director: Kristi Holmes (Northwestern University)
 
+# Other Core Members
+Don't edit this - the RPPR generater populates this section
+
 # Specific Aim
 
 Pull from proposal
