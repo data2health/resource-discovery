@@ -7,12 +7,12 @@
 # Other Core Members
 Don't edit this - the RPPR generater populates this section
 
+# Budget
+Don't edit this - the RPPR generater populates this section
+
 # Specific Aim
 
 Pull from proposal
-
-# Budget
-Don't edit this - the RPPR generater populates this section
 
 # Research Strategy
 Expose resources to the CTSA community.
