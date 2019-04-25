@@ -11,6 +11,9 @@ Don't edit this - the RPPR generater populates this section
 
 Pull from proposal
 
+# Budget
+Don't edit this - the RPPR generater populates this section
+
 # Research Strategy
 Expose resources to the CTSA community.
 ## Significance
