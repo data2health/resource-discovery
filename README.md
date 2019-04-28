@@ -32,6 +32,6 @@ See CD2H Labs for our latest demonstration platforms.
 
 * [Architecting Attribution](https://github.com/data2health/architecting_attribution) ([RPPR](https://github.com/data2health/architecting_attribution/blob/master/RPPR.md))
 * [Education Harmonization](https://github.com/data2health/edu-harmonization) ([RPPR](https://github.com/data2health/edu-harmonization/blob/master/RPPR.md))
-* [menRva](https://github.com/data2health/menRva) ([RPPR](https://github.com/menRva/scits-platform/blob/master/RPPR.md))
+* [menRva](https://github.com/data2health/menRva) ([RPPR](https://github.com/data2health/menRva/blob/master/RPPR.md))
 * [Personas](https://github.com/data2health/CTS-Personas) ([RPPR](https://github.com/data2health/CTS-Personas/blob/master/RPPR.md))
 * [Science of Translational Science Platform](https://github.com/data2health/scits-platform) ([RPPR](https://github.com/data2health/scits-platform/blob/master/RPPR.md))
