@@ -5,10 +5,10 @@
 * Co-Director: Kristi Holmes (Northwestern University)
 
 # Other Core Members
-Don't edit this - the RPPR generater populates this section
+Don't edit this - the RPPR generator populates this section
 
 # Year 3 Budget
-Don't edit this - the RPPR generater populates this section
+Don't edit this - the RPPR generator populates this section
 
 # Specific Aim
 
