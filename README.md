@@ -12,10 +12,7 @@ Don't edit this - the RPPR generator populates this section
 
 # Specific Aim
 
-The mission of the CD2H Resource Discovery Core is to support
-discovery of the rich landscape of expertise available within the CTSAs and beyond, and to provide a robust
-infrastructure for supporting attribution of the diverse types of contributions needed to perform translational
-team science.
+The mission of the CD2H Resource Discovery Core is to support discovery of the rich landscape of expertise and resources available within the CTSA hubs and beyond, and to provide a robust infrastructure for supporting attribution of the diverse types of contributions needed to perform translational team science.
 
 # Research Strategy
 We leverage effective strategies and inventive approaches to build
@@ -35,6 +32,7 @@ their local environments;
 * Developing a practical, scalable model of contribution and fostering its adoption across the CTSA
 consortium;
 * Extending institutional adoption of research profiling platforms in a platform-agnostic manner.
+
 ## Significance
 The data are out there, but underutilized.
 ## Innovation
