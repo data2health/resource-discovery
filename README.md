@@ -34,16 +34,31 @@ consortium;
 * Extending institutional adoption of research profiling platforms in a platform-agnostic manner.
 
 ## Significance
-The data are out there, but underutilized.
+CTSA hubs experience serious challenges in maintaining awareness of existing resources, resulting in significant duplication of effort and lost opportunities for synergy. An effective discovery platform spanning the spectrum of expertise, services and resources holds great promise to change this.
+
 ## Innovation
-Rapid deployment of a complex information landscape.
+We have developed an open, flexible architecture of resource identification, characterization and discovery based open open tools and able to be extended with new capabilities as needs are identified.
+
 ### Justification and Feasibility
-They need it, we're showing it can work.
+While first identified as a core component of our proposal to create CD2H, we have received recurring comments regarding a need for such a capability from NCATS personnel, CTSA hub PIs, CTSA informatics directors, and the CTSA Consortium population in general.
+
+Feasiblity has already been demonstrated with our proof-of-concept faceted search interface (see below).
+
 ### Summary of existing system and findings
-See CD2H Labs for our latest demonstration platforms.
+See CD2H Labs (labs.cd2h.org) for our latest demonstration platforms. These include:
+* the CD2H project dashboard
+* CD2H faceted search
+* a prototype of a CTSA Consortium-specific web harvesting and extraction platform (used for service characterizations so far)
+* a platform for harvesting and search of CTSA-relevant GitHub repositories, owners and contributors
+* a VIVO-compatible plaform integrating traditional research profiling data with GitHub information and connections to "grey" sources such as FigShare
+
 ## Approach
+The approach we have taken to date has been one of rapid prototyping of a harvesting platform for a newly identified information source, integration of the resulting metadata into the SciTS warehouse and then enabling discovery of those metadata in our faceted search engine. We plan on continuing this approach as long as new information sources arise.
+
+In year 3, we will be enhancing this overall framework with multiple means (JDBC, GraphQL, SPARQL) for hubs to directly interrogate the environment and embed both services and information into their local environments.
 
 ### Progress Report
+As noted above, we have made significant progress in configuring SciTS as a central resource linking the various activities and tools in this core. This has been greatly informed by our engagement with the CTSA community - particulary in the areas of educational resources, services and characterization of the roles assumed by CTSA personnel (see the Personas project for more information on this). We have multiple live services operational in CD2H Labs with frequent deliverables scheduled in the coming reporting period.
 
 ### Current Projects
 
