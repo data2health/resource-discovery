@@ -15,7 +15,7 @@ Don't edit this - the RPPR generator populates this section
 The mission of the CD2H Resource Discovery Core is to support discovery of the rich landscape of expertise and resources available within the CTSA hubs and beyond, and to provide a robust infrastructure to enable attribution of the many different essential contributions by the translational workforce.
 
 # Research Strategy
-We leverage effective strategies and inventive approaches to build connections within and beyond the CTSA Program. We have adapted and expanded our existing research profiling infrastructure using open collaborative approaches. We are developing tools to identify, track, disseminate, and understand the contribution and impact of software, data, informatics, and other non-traditional scholarly products and activities to properly attribute credit. Finally, this extended knowledge about expertise across the CTSAs is being applied to assist in the creation and success of community-wide collaborative functions. This mission is manifest in activities such as:
+We leverage effective strategies and inventive approaches to build connections within and beyond the CTSA Program. We have adapted and expanded our existing research profiling infrastructure using open collaborative approaches. We are developing tools to identify, track, and disseminate a wide range of research objects (e.g., software, data, informatics, and other non-traditional scholarly products and activities) to enable proper attribution of credit on translational teams and discovery of these objects at the local level and beyond. Finally, extended knowledge about expertise across the CTSAs is being applied to assist in the creation and success of community-wide collaborative functions. This mission is manifest in activities such as:
 * Provisioning a CTSA-wide index of all resources utilized across the full spectrum of CD2H activities;
 * Creation of expertise visualizations and services for adoption and assimilation by CTSA hubs for use in
 their local environments;
@@ -27,10 +27,10 @@ their local environments;
 Program.
 
 ## Significance
-CTSA hubs experience serious challenges in maintaining awareness of existing resources, resulting in significant duplication of effort and lost opportunities for synergy. An effective discovery platform spanning the spectrum of expertise, services and resources holds great promise to change this.
+CTSA hubs experience serious challenges in maintaining awareness of existing resources, resulting in significant duplication of effort and lost opportunities for synergy. Moreover, empowering hubs to collect, record, preserve, and disseminate a wide range of digital works across the translational workforce is critical to enhance their visibility, promote people and their expertise, support attribution of their work, aid the discovery and accessibility by the international scientific community, and support open and FAIR science. A range of key tools and resources spanning the spectrum of expertise, services and resources holds great promise to change this.
 
 ## Innovation
-We have developed an open, flexible architecture of resource identification, characterization and discovery based open open tools and able to be extended with new capabilities as needs are identified.
+We have developed an open, flexible architecture of resource identification, characterization, and discovery based open open tools to be extended with new capabilities as needs are identified. 
 
 ### Justification and Feasibility
 While first identified as a core component of our proposal to create CD2H, we have received recurring comments regarding a need for such a capability from NCATS personnel, CTSA hub PIs, CTSA informatics directors, and the CTSA Consortium population in general.
