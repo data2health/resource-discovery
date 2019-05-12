@@ -33,9 +33,7 @@ CTSA hubs experience serious challenges in maintaining awareness of existing res
 We have developed an open, flexible architecture of resource identification, characterization, and discovery based open open tools to be extended with new capabilities as needs are identified. 
 
 ### Justification and Feasibility
-While first identified as a core component of our proposal to create CD2H, we have received recurring comments regarding a need for such a capability from NCATS personnel, CTSA hub PIs, CTSA informatics directors, and the CTSA Consortium population in general.
-
-Feasiblity has already been demonstrated with our proof-of-concept faceted search interface (see below).
+While first identified as a core component of our proposal to create CD2H, we have received recurring comments regarding a need for such a capability from NCATS personnel, CTSA hub PIs, CTSA informatics directors, and the CTSA Consortium population in general. Feasiblity has been demonstrated with our proof-of-concept faceted search interface (see below) as well as leveraging existing software and service architectures to achieve modernized, safe, and scalable tools.  Finally, we have worked extensively with stakeholders to scope requirements and solicit feature requests, while engaging in ongoing data testing and code review to produce dependable resources for the community.
 
 ### Summary of existing system and findings
 See CD2H Labs (labs.cd2h.org) for our latest demonstration platforms. These include:
@@ -52,9 +50,6 @@ The Northwestern team uses Agile development methodology to support progress on 
 
 ### Progress Report
 As noted above, we have made significant progress in configuring SciTS as a central resource linking the various activities and tools in this core. This has been greatly informed by our engagement with the CTSA community - particulary in the areas of educational resources and hub services. We have multiple live services operational in CD2H Labs with frequent deliverables scheduled in the coming reporting period.
-
-We are wrapping up the Personas project in Year 3 and will actively disseminate deliverables. Significant progress will be achieved by the Attribution and menRva teams, with software releases and other deliverables expected before year's end.
- and characterization of the roles assumed by CTSA personnel (see the Personas project for more information on this). 
 
 We also made significant progress on menRva, Personas, and Attribution projects. We released a menRva alpha version (staging) (with basic deposits, powerful search, DOI minting, containerization) and a [Repository & Index Software comparison](https://github.com/data2health/repository-and-index-software). We made progress in the computable attribution work ([CRedIT ontology](https://github.com/data2health/credit-ontology) & [Contributor Role Ontology](https://github.com/data2health/contributor-role-ontology) released, draft annotation file, [research object assessment & mapping](https://docs.google.com/spreadsheets/d/1Mw8gK2NUGM8po7GGRtJTShRM2QNFoR19VJrjQuVCDW8/edit#gid=1619162717)). We held a small [Attribution F2F](https://docs.google.com/document/d/14usojjGshNBCXQ6oEtIFbpV3nGWmhWm_6KD1kOkIV7Q/edit) and are developing a demonstrator. The Personas project has completed extensive [information assessment](https://docs.google.com/spreadsheets/d/1SiBgnnKfhIMMLuUBBVpY0nF3ivU4ynG3uDELu7DpzKA/edit#gid=1518217027) and [literature](https://drive.google.com/drive/folders/1QRVwKfvjDNizvMrvWLkD-BHr2UMIeWzF) gathering & assessment to identify key job families, finalized a template, created a [sample profile](https://drive.google.com/file/d/1rBqkHNqFO0nZyZdCgP3I3F_zf4Pwap7P/view). We've also worked to welcome CTSA Program collabroators to the projects through orienting them to projects, with outreach at meetings and on calls, and other activities to build a community of practice. The Personas project wrap up prior to Year 3, with active dissemination of deliverables. 
 
