@@ -20,7 +20,7 @@ We leverage effective strategies and inventive approaches to build connections w
 * Creation of expertise visualizations and services for adoption and assimilation by CTSA hubs for use in
 their local environments;
 * Development and deployment of an open repository to support preservation, indexing, and discovery of resources at CTSA hubs; 
-* Development of a data discovery engine to index and search data across hubs;
+* Development of a data discovery engine to index and search data across hubs (collaboration between Scripps & Northwestern);
 * Harmonization of educational resources from multiple existing platforms into a single shared discovery framework;
 * Extending representation of expertise and related services across the CTSA consortium;
 * Developing a practical, scalable model of contribution and fostering its adoption across the CTSA
