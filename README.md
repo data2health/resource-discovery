@@ -17,7 +17,7 @@ The mission of the CD2H Resource Discovery Core is to support discovery of the r
 # Research Strategy
 We leverage effective strategies and inventive approaches to build connections within and beyond the CTSA Program. We have adapted and expanded our existing research profiling infrastructure using open collaborative approaches. We are developing tools to identify, track, and disseminate a wide range of research objects (e.g., software, data, informatics, and other non-traditional scholarly products and activities) to enable proper attribution of credit on translational teams and discovery of these objects at the local level and beyond. Finally, extended knowledge about expertise across the CTSAs is being applied to assist in the creation and success of community-wide collaborative functions. This mission is manifest in activities such as:
 * Provisioning a CTSA-wide index of all resources utilized across the full spectrum of CD2H activities;
-* Creation of expertise visualizations and services for adoption and assimilation by CTSA hubs for use in
+* Creation of expertise, visualizations, and services for adoption and assimilation by CTSA hubs for use in
 their local environments;
 * Development and deployment of an open repository to support preservation, indexing, and discovery of resources at CTSA hubs; 
 * Development of a data discovery engine to index and search data across hubs (collaboration between Scripps & Northwestern);
