@@ -27,7 +27,7 @@ their local environments;
 Program.
 
 ## Significance
-CTSA hubs experience serious challenges in maintaining awareness of existing resources, resulting in significant duplication of effort and lost opportunities for synergy. Moreover, empowering hubs to collect, record, preserve, and disseminate a wide range of digital works across the translational workforce is critical to enhance their visibility, promote people and their expertise, support attribution of their work, aid the discovery and accessibility by the international scientific community, and support open and FAIR science. A range of key tools and resources spanning the spectrum of expertise, services and resources holds great promise to change this.
+CTSA hubs experience serious challenges in maintaining awareness of existing resources, resulting in significant duplication of effort and lost opportunities for synergy. Moreover, empowering hubs to collect, record, preserve, and disseminate a wide range of digital works across the translational workforce is critical to enhance their visibility, promote people and their expertise, support attribution of their work, aid the discovery and accessibility by the international scientific community, and support open and FAIR science. A range of key tools and resources spanning the spectrum of expertise, services, and resources holds great promise to change this.
 
 ## Innovation
 We have developed an open, flexible architecture of resource identification, characterization, and discovery based open open tools to be extended with new capabilities as needs are identified. 
