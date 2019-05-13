@@ -57,7 +57,7 @@ We have also made significant progress on the menRva, Personas, and Attribution 
 
 * [Architecting Attribution](https://github.com/data2health/architecting_attribution) ([RPPR](https://github.com/data2health/architecting_attribution/blob/master/RPPR.md))
 * [Education Harmonization](https://github.com/data2health/edu-harmonization) ([RPPR](https://github.com/data2health/edu-harmonization/blob/master/RPPR.md))
-* [Information Architecture internal project)](https://github.com/data2health/information-architecture) ([RPPR](https://github.com/data2health/information-architecture/blob/master/RPPR.md))
+* [Information Architecture (internal project)](https://github.com/data2health/information-architecture) ([RPPR](https://github.com/data2health/information-architecture/blob/master/RPPR.md))
 * [menRva](https://github.com/data2health/menRva) ([RPPR](https://github.com/data2health/menRva/blob/master/RPPR.md))
 * [Personas](https://github.com/data2health/CTS-Personas) ([RPPR](https://github.com/data2health/CTS-Personas/blob/master/RPPR.md))
 * [Science of Translational Science Platform](https://github.com/data2health/scits-platform) ([RPPR](https://github.com/data2health/scits-platform/blob/master/RPPR.md))
