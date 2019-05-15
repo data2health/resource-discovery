@@ -41,7 +41,7 @@ See [CD2H Labs](http://labs.cd2h.org/labs/) for our latest demonstration platfor
 * CD2H faceted search
 * a prototype of a CTSA Consortium-specific web harvesting and extraction platform (used for service characterizations so far)
 * a platform for harvesting and search of CTSA-relevant GitHub repositories, owners and contributors
-* a VIVO-compatible plaform integrating traditional research profiling data with GitHub information and connections to "grey" sources such as FigShare
+* a VIVO-compatible platform integrating traditional research profiling data with GitHub information and connections to "grey" sources such as FigShare
 
 ## Approach
 The approach employed by the Iowa team to date has been one of rapid prototyping of a harvesting platform for a newly identified information source, integration of the resulting metadata into the SciTS warehouse and then enabling discovery of those metadata in our faceted search engine. We plan on continuing this approach as long as new information sources arise. In year 3, we will be enhancing this overall framework with multiple means (JDBC, GraphQL, SPARQL) for hubs to directly interrogate the environment and embed both services and information into their local environments.
