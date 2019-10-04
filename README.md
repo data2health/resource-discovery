@@ -3,6 +3,7 @@
 # Leadership
 * Director: David Eichmann (University of Iowa)
 * Co-Director: Kristi Holmes (Northwestern University)
+* Community Co-Chair: Nick Anderson (UC Davis)
 
 # Other Core Members
 Don't edit this - the RPPR generator populates this section
