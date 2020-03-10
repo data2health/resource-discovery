@@ -56,8 +56,13 @@ We have also made significant progress on the InvenioRDM, Personas, and Attribut
 
 ### Current Projects
 
-* [Architecting Attribution](https://github.com/data2health/architecting_attribution) ([RPPR](https://github.com/data2health/architecting_attribution/blob/master/RPPR.md))
+
 * [Information Architecture (internal project)](https://github.com/data2health/information-architecture) ([RPPR](https://github.com/data2health/information-architecture/blob/master/RPPR.md))
 * [InvenioRDM Research Data Management Platform](https://github.com/data2health/InvenioRDM) ([RPPR](https://github.com/data2health/InvenioRDM/blob/master/RPPR.md))
+
+
+### Past Projects
+
+* [Architecting Attribution](https://github.com/data2health/architecting_attribution) ([RPPR](https://github.com/data2health/architecting_attribution/blob/master/RPPR.md))
 * [Personas](https://github.com/data2health/CTS-Personas) ([RPPR](https://github.com/data2health/CTS-Personas/blob/master/RPPR.md))
 * [Science of Translational Science Platform](https://github.com/data2health/scits-platform) ([RPPR](https://github.com/data2health/scits-platform/blob/master/RPPR.md))
